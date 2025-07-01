@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya Sutar</h1>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/116437913" width="120" alt="Aditya Sutar" />
+</p>
+
+![Visitors](https://komarev.com/ghpvc/?username=adityasutar88888&color=blue)
+
 <h3 align="center">Aspiring Full-Stack Developer | B.Tech CSE Student (2024–2028)</h3>
 
 ---
@@ -56,5 +62,19 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:adityasutar88888@gmail.com)
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasutar88888&show_icons=true&theme=tokyonight" alt="Aditya's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityasutar88888&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasutar88888&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ⭐️ *Thanks for visiting my GitHub profile!*
